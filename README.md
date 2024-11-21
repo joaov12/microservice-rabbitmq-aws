@@ -18,7 +18,7 @@ Este repositório contém 3 microserviços sendo projetos Java e Spring Boot int
 
 <br>
 
-# Tecnolocias utilizadas
+# Tecnologias utilizadas
 - Java
 - Spring Boot
 - AWS 
